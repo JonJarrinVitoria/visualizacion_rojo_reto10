@@ -1,4 +1,4 @@
-,prenda_9,count_9,prenda_8,count_8,prenda_7,count_7
+,prendas_9,count_9,prendas_8,count_8,prendas_7,count_7
 0,top,542259,sweater,842219,pant,560380
 1,pant,485781,tshirt,495073,tshirt,555917
 2,sweater,447926,jeans,487839,top,483699
@@ -9,11 +9,3 @@
 7,skirt,306738,jacket,376078,skirt,349221
 8,cardigan,280086,skirt,316807,sweater,320998
 9,dress,260268,top,313810,short,244871
-10,short,184138,dress,294442,cardigan,194044
-11,jumpsuit,143346,coat,135905,jumpsuit,124210
-12,parka,140107,sweatshirt,59952,parka,96224
-13,coat,44583,jumpsuit,41937,sweatshirt,82212
-14,sweatshirt,37917,scarf,36916,trench,33269
-15,trench,35427,bag,13230,scarf,32956
-16,bag,23079,short,3609,bag,29941
-17,scarf,21554,trench,1827,coat,12108
